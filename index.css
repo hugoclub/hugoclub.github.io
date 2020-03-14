@@ -1,3 +1,20 @@
 .logo {
   height: 80px;
 }
+
+nav.text-color {
+  color: gainsboro
+}
+
+a.nav-link.active {
+  border-bottom: 5px solid red;
+  color: white !important;
+}
+
+a.nav-link:hover {
+  color: #f8f9fa !important;
+}
+
+section.post {
+  transform: translateX(-50px);
+}

@@ -1,1 +1,1 @@
-# hugoclub.github.io
+# https://hugoclub.github.io
